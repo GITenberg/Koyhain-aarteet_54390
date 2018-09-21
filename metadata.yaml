@@ -1,0 +1,33 @@
+_repo: Koyhain-aarteet_54390
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Sillanpää, Frans Eemil
+    aliases:
+    - Sillanpää, F. E. (Frans Eemil)
+    - Sillanpaa, Frans Eemil
+    birthdate: 1888
+    deathdate: 1964
+    gutenberg_agent_id: '43826'
+    url: http://www.gutenberg.org/2009/agents/43826
+creator:
+  author:
+    agent_name: Maeterlinck, Maurice
+    birthdate: 1862
+    deathdate: 1949
+    gutenberg_agent_id: '795'
+    url: http://www.gutenberg.org/2009/agents/795
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Maeterlinck
+description: ''
+gutenberg_issued: '2017-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54390'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Köyhäin aarteet
+url: http://www.gutenberg.org/ebooks/54390
